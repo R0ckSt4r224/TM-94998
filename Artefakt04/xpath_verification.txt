@@ -1,0 +1,9 @@
+PROJEKT SELEKTORA:
+<<<<<<< HEAD
+ID: textSpacerNoButtons
+TAG: android.widget.Space
+=======
+ID: all
+TAG: RadioButton
+>>>>>>> fd27e190fc403d5a260ce821e5b7535682d898ed
+STATUS: ZALICZONE

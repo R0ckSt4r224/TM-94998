@@ -1,0 +1,13 @@
+#Logi
+*.log
+
+#Tymczasowe
+.temp
+
+#Środowiska
+.venv
+.node_modules
+
+#Systemowe
+.DS_Store
+Thumbs.db
